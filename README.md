@@ -172,8 +172,6 @@ And in IDA pressed Debugger->Attach->Remote GDB Process and entered localhost::8
 
 ![image-20220111155532252](README.assets/image-20220111155532252.png)
 
-Great. Now let's debug this shit.
-
 ### Boilerplate and backups
 
 The first things to execute are the following instrucitons:
